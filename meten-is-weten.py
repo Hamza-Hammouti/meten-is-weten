@@ -7,10 +7,10 @@ min = 0
 
 if a > b:
     max = a
-    print(f"A is het grootste getal. Waarde: {max}")
+    print(f"A is het grootste getal. Het minimum is: {max}")
 elif a < b:
     max = b
-    print(f"B is het grootste getal. Waarde: {max}")
+    print(f"B is het grootste getal. Het maximum is: {max}")
 else:
     print("A en B zijn even groot")
     
