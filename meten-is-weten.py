@@ -11,3 +11,6 @@ if a > b:
 elif a < b:
     max = b
     print(f"B is het grootste getal. Waarde: {max}")
+else:
+    print("A en B zijn even groot")
+    
